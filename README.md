@@ -1,22 +1,18 @@
-# Scikit-Learn Reservoir
+# Pyspark Reservoir
 
-Welcome to the Scikit-Learn Reservoir! 🌊
+Welcome to the Pyspark Reservoir! 🌊
 
-This repository serves as a collection of projects and resources related to scikit-learn, a powerful machine learning library in Python.
+This repository serves as a collection of projects and resources related to Pyspark, a powerful library for big data.
 
-## Projects
+## Pyspark Projects
 
-Here's a brief overview of the projects included in this reservoir:
+Here are some Pyspark projects and resources:
 
-1. **Project Name**: Credit Card Fraud Detection using Logistic Regression
-  - [Link to Project](https://github.com/ishmaelrezaei/scikit-learn/tree/main/Credit%20Card%20Fraud%20Detection)
+1. **Project Name**: Pyspark Project for March Madness with 514,193,368 Observations
+   - [Link to Project](https://github.com/ishmaelrezaei/Pyspark/tree/main/Pyspark%20project%20for%20March%20Madness%20514%2C193%2C368%20Observations)
 
-3. **Project Name**: March Madness 2024-basketball winners prediction using Logistic Regression
-  - [Link to Project](https://github.com/ishmaelrezaei/scikit-learn/tree/main/March%20Madness%202024-Basketball%20Winners%20Prediction)
-
-3. **Project Name**: Birds Audio Classification using XGBoost
-  - [Link to Project](https://github.com/ishmaelrezaei/scikit-learn/tree/main/XGBoost%20for%20Audio%20Classification)
-
+2. **Project Name**: Some Pyspark Notes
+   - [Link to Project](https://github.com/ishmaelrezaei/Pyspark/tree/main/Some%20Pyspark%20Notes)
 
 Feel free to explore each project to learn more about its goals, implementation, and usage.
 
